@@ -1,0 +1,3 @@
+This is a simple exercice suggested by the Website Odin Project. I had to create the structure of a website with basic Html and get familiarize with git, github.
+
+Nothing fancy here, just a mere summerize of what I have learned this week; how to create a html file, add meta for the meta-data inside the head and added a body for the content. Inside the body I created different titles according to their importance, unordered and ordered lists, added relative images, created links between pages.
